@@ -1,7 +1,7 @@
 
 # Pokemeow Auto Bot
 
-Latest Update 04/12/2023
+Latest Update 27/12/2023
 Only Hunt & Fishing
 included Self Captcha solver & Not Third Party
 99.99% Captcha Solver
